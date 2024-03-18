@@ -1,6 +1,6 @@
 <h1 align="center">
 <video width="320" height="240">
-  <source src="metodologia\agile.mp4.mp4" type="video/mp4">
+  <source src="agile.mp4.mp4" type="video/mp4">
 </video>
 
 **Bem vindo ao nosso trabalho**
